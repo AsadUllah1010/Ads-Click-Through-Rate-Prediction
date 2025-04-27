@@ -18,4 +18,6 @@ lick-through rate is the ratio of users who clicked on an ad/link to the number 
 Jupyter Notebook
 # Conclusion
 So this is how you can use Machine Learning for the task of Ads CTR prediction using Python. Ads CTR means predicting whether the user will click on the ad. In this task, we need to train a Machine Learning model to find relationships between the characteristics of all the users who click on ads.
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
 
